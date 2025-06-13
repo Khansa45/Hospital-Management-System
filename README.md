@@ -36,8 +36,10 @@ Provides doctors with tools to manage medical information.
 
 ---
 
-🔹 3. Patient Panel
--Allows patients to:
+
+** 🔹 3. Patient Panel**
+
+Allows patients to:
 -View their reports
 -Enter their Patient ID to access their medical history
-
+ 
