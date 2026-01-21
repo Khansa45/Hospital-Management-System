@@ -84,7 +84,7 @@ Provides doctors with tools to manage medical information.
 ---
 
 ## 👩‍💻 Developers
-- **Abisha CH**
 - **Khansa Zaeem**
-
+- **Abisha CH**
+  
 ---
