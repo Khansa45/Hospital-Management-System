@@ -27,7 +27,7 @@ Handles patient admission and manages overall records.
 
 ### 🔹 2. Doctor Panel
 Provides doctors with tools to manage medical information.
-```text
+
 1. Patient Enquiry        → View specific patient details
 2. Make Patient Report    → Add diagnosis & treatment details
 3. View Doctor Details    → Show doctor's profile and schedule
@@ -36,10 +36,55 @@ Provides doctors with tools to manage medical information.
 
 ---
 
+### 3️⃣ Patient
+- Login authentication
+- View personal medical report using Patient ID
 
-** 🔹 3. Patient Panel**
+---
 
-Allows patients to:
--View their reports
--Enter their Patient ID to access their medical history
- 
+## ⚙️ Features
+- Role-based login system (Admin / Doctor / Patient)
+- Patient record management (Add, View, Delete)
+- Doctor record management (Add, View, Delete)
+- Medical report creation (Diagnosis, Prescription, Follow-up)
+- Input validation for age, gender, IDs, etc.
+- Colored console output for better user experience (Windows)
+- Menu-driven interface
+
+---
+
+## 🛠️ Technologies Used
+- **C Language**
+- Standard Libraries:
+  - stdio.h
+  - string.h
+- Concepts Applied:
+  - Functions
+  - Arrays
+  - Structures (logical data handling)
+  - Conditional statements
+  - Loops
+  - Input validation
+
+---
+
+## ▶️ How to Run the Project
+1. Open the project in **Dev C++ / Code::Blocks / Visual Studio**
+2. Compile the source file
+3. Run the program
+4. Select role from main menu
+5. Login using default credentials
+
+---
+
+## 📌 Project Type
+- Console Based Application  
+- Academic / Semester Project  
+
+---
+
+## 👩‍💻 Developers
+- **Abisha CH**
+- **Khansa Zaeem**
+
+---
